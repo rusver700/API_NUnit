@@ -1,10 +1,7 @@
-﻿using API_Operacoes;
-using API_Operacoes.Interface;
+﻿using API_Operacoes.Interface;
 using APINunit.Servico;
 using FluentAssertions;
-using FluentAssertions.Execution;
 using Microsoft.Extensions.Logging;
-using Microsoft.VisualStudio.TestPlatform.CommunicationUtilities;
 using Moq;
 
 namespace API_Oprecoes_TestesUnitarios
